@@ -34,7 +34,7 @@ group :test, :development do
   gem 'launchy'
   gem 'database_cleaner'
   gem 'steak', "~> 1.1.0"
-  gem 'rspec-rails', "~> 2.0.1"
+  gem 'rspec-rails', "~> 2.6.1"
   gem 'rcov'
   gem 'factory_girl_rails'
   gem 'mocha'
